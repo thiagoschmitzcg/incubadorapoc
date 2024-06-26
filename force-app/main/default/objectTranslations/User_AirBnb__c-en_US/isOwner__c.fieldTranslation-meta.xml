@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- isOwner --></label>
+    <name>isOwner__c</name>
+    <picklistValues>
+        <masterLabel>Is Owner</masterLabel>
+        <translation><!-- Is Owner --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Not Owner</masterLabel>
+        <translation><!-- Not Owner --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
