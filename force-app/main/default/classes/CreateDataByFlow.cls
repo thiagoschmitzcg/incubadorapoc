@@ -4,8 +4,8 @@ public with sharing class CreateDataByFlow {
         List<User_AirBnb__c> UserAirBnbList = new List<User_AirBnb__c>();
     UserAirBnbList.add(
       new User_AirBnb__c(
-        Name = 'Yeison',
-        Last_Name__c = 'Wilde',
+        Name = 'Thiago',
+        Last_Name__c = 'Schmitz',
         Phone__c = '2583539234',
         isOwner__c = 'Not Owner',
         Adress__latitude__s = -38.942282,
